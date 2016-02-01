@@ -81,3 +81,418 @@ https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/v
 xxxx
 https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/vine.jpg
 xxxxxx
+Dubsmash
+xxxx
+Video Contest
+xxxx
+* Download the app “DUBSMASH” from https://play.google.com/store/apps/details?id=com.mobilemotion.dubsmash
+* Shoot your video and send it to 
+  +919774676339
+  +918730852628
+  +918730852524        
+* Or mail your video at dmash.advaitam@gmail.com
+xxxx
+Paraj - +919774661324
+xxxx
+mailto:dmash.advaitam@gmail.com
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/dubsmash.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/dubsmash.jpg
+xxxxxx
+Chemhurdle Race
+xxxx
+SURVIVAL OF SMARTEST+FITTEST
+xxxx
+Use the team work,your chemistry skills,geographic skills of campus plus your stamina to overcome the hurdles. IT ain’t “SURVIVAL OF FITTEST”.IT is “SURVIVAL OF SMARTEST+FITTEST” TEAM-Each team should consist of two members. 
+Open to all branches.
+The team shall pick a chit from the lottery which will contain a color code.
+Each team has to find a clue wrapped within the same color code.
+The clue will contain a riddle to the next location.
+But before going to next location make sure that you answer the question based on chemistry asked by the coordinator present over there.
+Correct answer	you can move further
+Wrong answer	+4 minutes
+If you ask for a hint	+1 minute
+Skip question	+2 minutes
+The 6 clues placed in 6 different location are interlinked.
+Complete and balance a chemical reaction associated with your clues.
+The team to complete the entire race within minimum time will be declared winner
+xxxx
+Pravesh - +918974089347
+Shobhit - +918413029930
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+CIRCUIT-O-GEEKS
+xxxx
+Technical Competition
+xxxx
+The event has THREE rounds that test your circuit designing skills. 
+Round 1 : This round is an aptitude test on the fundamentals of basic electronics ,basic electrical & general questions. Marks will be given on the basis of no. of questions correctly answered. There is one-third negative making. Selected teams from this round will proceed to the next round. 
+Round 2 : In this round participants to solve the circuits by using their knowledge of circuit solving. And also they have the time limit for the solving the circuit. The team who solve the circuit in minimum time they will be promoted to the final round. 
+Round 3: The final round is all about designing a circuit based on the given problem statement. In this, the participants will have to race against time as they compete with one another to make the best possible circuit.The accuracy and approach in building the circuit is tested. External power source is provided by the Organizer. The best three teams will be awarded first, second and third positions. RULES AND REGULATIONS: Each team can consist of maximum of 2 members. A basic knowledge of circuits is required. The decision of judges shall be treated as final.
+JUDGING CRITERIA:
+• There is one-third negative marking in first round. Here evaluation is based on the number of questions answered correctly and minus the negative marks obtained. 
+• Round two is based on Performance results and and the time factor is also considered. 
+• Round three is based on the efficiency of the output and the time taken to
+xxxx
+Akash Kumar - 8131047231
+Avinash Kumar - 9089481240
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+Clash of cads
+xxxx
+Technical Competition
+xxxx
+ROUND 1:- 
+1. Teams will be required to draft a design of a FLAT on the given plot area.
+2. They will have to submit .dwg file within 12 hours of the commencement of the round. (.dwg should include detailing of the design and its dimensions.) 
+3. Preferences would be given to them who will submit 3-D rendering of the plotted design. 
+ROUND 2:-
+1. In this round teams shall be given a time frame of 24 hours from the commencement of the round in order to submit their .dwg file. 
+2. Information about the type of structure would be given at the time of the starting of the round. 
+3. Detailing and dimensioning of the design are required. 
+4. 3-D rendering required in this round. 
+FINAL ROUND:-
+1. In this round teams shall be given a time frame of 48 hours from the commencement of the round in order to submit their .dwg file. 
+2. Information about the type of structure would be given at the time of the starting of the round. 
+3. Detailing and dimensioning of the design are required. 
+4. 3-D rendering required in this round. 
+xxxx
+Not Given
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+CODEVAITAM
+xxxx
+Technical Competition
+xxxx
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – Edsger Dijkstra
+CodeVaitam is an on-line competitive programming contest of NIT Agartala. It is a 5 days Long contest conducted in CodeChef consisting of 10 problems. It provides you a platform to compete with verities of coders present in this world, which polishes and brings out knowledge’s, skills and new techniques to solve problems within you. This year we bring to you new challenges from 3rd Feb. till 7th Feb. which follows the past year’s tradition.
+Rules and Regulations:
+Contest problems will become visible on 3rd February, 2016 at 2000 HRS (IST) and end at 7st February 2016 at 2000 HRS (IST).
+To participate login at codechef and open www.codechef/contest. Then click on CodeVaitam2.0.
+Discussing problems or any aspect of problem, on any other platform on web, on identification, could lead to disabling of respective account and banning from the community.
+If you do not have a Codechef ID create one www.codechef.com/user/register .
+You can practice at www.codechef.com/CDVA15.
+Almost all languages supported on Codechef are allowed.
+Each program will be tested based on our critical test data. However output and input should be exactly as specified in the samples provided.
+All participants are expected to abide by the Codechef Code Of Conduct
+Please contact codevaitam15@gmail.com for any queries during the contest.
+Judging Criteria:
+All the problems have same points allotted to them
+Users are ranked according to the most problems solved. Ties will be broken by the total time for each user in ascending order of time.
+The decision of the organizers in declaring the results will be final. No queries in this regard will be entertained.
+Any participant found to be indulging in any form of malpractice will be immediately disqualified.
+The total time is the sum of the time consumed for each problem solved.
+xxxx
+Aditya Kumar - +918974089443 
+Diwakar Bhardwaj - +918414978582
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+Code Vidhi 3.0
+xxxx
+TALK IS CHEAP. SHOW ME THE CODE
+xxxx
+There are 2 types of people, the one who can code and the one who can not. Show your mettle at this contest bring forth the true coder in you. Ready to flex your coding muscles and to fight with all you got on the arena? Beware! The arena is not for weak souls, the rule of the jungle favors the strongest. Get ready this February with your arsenal filled to fight in the second edition of the epic war with code.
+Rules and Regulations
+There will be 2 rounds: Beginner level and Advanced level.
+The first round will consist of beginner level coding (30 min round*), of which 20% of people advance to second round.
+The second round will consist advance level coding (2 Hrs round*), consisting practical daily use problems based on Data Structures and Algorithms.
+Three teams will qualify to win the tournament.
+The problem will be provided to the team just before the start of each round.
+C/ C++/ Java/ Pascal/ Python/ PyPy are the languages allowed to use during the contest.
+Each program will be tested based on our critical test data. However output and input should be exactly as specified in the sample provided.
+The participants must adhere to the spirit of healthy competition.
+Contact codevaitam15@gmail.com for any queries during the contest.
+Judging Criteria
+All the problems have points allotted to them based on their difficulty.
+In both the rounds participants are ranked according to the most problems solved. Ties will be broken by the total time for each user in ascending order of time.
+The decision of the organizers in declaring the results will be final. No queries in this regard will be entertained.
+Any participant found to be indulging in any form of malpractice will be immediately disqualified
+The total time is the sum of the time consumed for each problem solved.
+Important: The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any will be highlighted on the website and notified to the registered participants. You are expected to check the Advaitam website regularly.
+xxxx
+Aditya Kumar - +918974089443 
+Ashutosh kumar - +919089430675
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+CONTRAPTION
+xxxx
+Technical Competition
+1.A Contraption is a chain of different 'ENERGY CONVERSION' steps, in which one steps triggers the next one leading to completion of final task. 
+2.This event requires simple class room ideas along with innovation that can make the solution as complicated and fascinating as possible. 
+3.Contraption is all about making most complicated solution to a simple problem. 
+4.This contraption is designed to pull students away from conventional problem solving and push them into the endless chaos of imagination and intuitive thought. 
+5.Instead of just "solving" the problem, teams have to make the solution as complicated and as convoluted as possible.
+TASK :
+In first step glow the bulb and in last step open a folded flag and at the same time bulb should be off and "SAVE ELECTRICITY" is written in the flag. 
+Note :
+Max. Participants per team: 5 
+Trials : 1 
+Maximum DIMENSION of the contraption-6*6*4 (l*b*h) foot , 
+Rules and Regulations :
+1)there will be 2 rounds. 
+(i) In first round participant will have to submit the report of their ideas which will contain all the details in the format of flow chart. 
+(ii)In final round participant will have to perform at the time of competition on basis of their previous idea. 
+2)If you want to change in your idea (after submission your report) at the time of performence(final round) then marks will be deducted. 
+3)Time for setup -2hours 
+4) Maximum 3 interventions are allowed, after that points will be deducted for each intervention. 
+5)Minimum number of steps must be 15. 
+* Note-Explanation must be clear and simple.eg. Chemicals reacts and burns matchstick energy conversion -chemical energy to heat energy 
+Formula Used: 
+A = Marks given for abstract, asthetic simplicity. out of 30 (Presenting style will beconsidered). 
+B = for energy conversion, 10 points will be awarded. 
+C = for each intervention 10 points will be deducted. 
+D = 40 points for completion of task 
+E = If the participants decide to take extra time after 2 hours, for every extra 15 minutes 10 points will be deducted. 
+Total Points = [A+B+C+D+F+G]-[E+H] 
+6) Following parameters will be considered for judging this factor- 
+a) The quality, difficulty and the purposefulness of energy conversions in the arrangement. 
+b) The quality, difficulty and the purposefulness of parallel steps if any contributing towards the final aim of the arrangement. 
+c) Different/unique steps and energy conversions. 
+d) Overall Flow: How easy is it to see and follow the sequence from the first through the last step . 
+e) Points calculate as per formula .
+xxxx
+1.PANKAJ SHARMA (2nd year) - +918119099661 
+2.VIBHAV PANDEY (2nd year) - +918119061548
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+HYDRAULIC EVENT
+xxxx
+Technical Event
+xxxx
+THIS EVENT CONTAIN TWO TYPE OF HYDRAULIC MACHINE
+1.SYRINGE OPERATED HYDRAULIC ARM 
+MATERIALS USE FOR MAKING THE MACHINE;
+FLEXI TUBE, ICE-CREAME STICKS, COPPER WIRE,NEEDLE, CARDBOARD PIECE, SYRINGES, WOOD, TIN PIECE, SCREW, NUT BOLT E.T.C INSTRUCTION;
+1.THE COST OF THESE MACHINE SHOULD BE LESS THAN 200.
+2.ONE GROUP CONTAIN ATLEAST TWO BOYS.
+DECISION OF WINNER;
+1.THE ARM WHICH WILL SUCCESSFULLY REPLACE THE HEAVIEST OBJECT.
+2.THE CRANE WHICH WILL SUSTAIN MORE LOAD.
+xxxx
+SONELAL YADAV - +919089527415 
+Mukesh kumar  - +918413030083
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+PAINT YOUR WAY
+xxxx
+Technical Competition
+xxxx
+Have you ever edited your profile picture!!! Or you altered any of your pictures to show OFF your skills. It’s time to color it in Indian way. This is the time to show OFF your imagination. 
+Theme: INCREDIBLE INDIA 
+So DRAW or EDIT any picture related to INCREDIBLE INDIA.
+How to participate:
+1. Register @ http//:www.beinfolks.com 
+2. Fill your profile fields. 
+3. Join the contest group (Paint Your Way) 
+4. Submit your designs before 09th feb,2016 
+5. Result will be published on 13th feb, 2016 on the website. 
+That’s it. You are done. 
+Benefits:-
+1. Learn as you go. (Details @ Bein’Folks) 2. Opportunity to show your skills to the internet community. 3. Exciting prizes for top 3 designs. 
+4. Top 3 designs will become the face of Bein’Folks. 
+Advaitam is the great opportunity and with Bein'Folks we are promoting it to our every network
+xxxx
+Ashish Kumar Ranjan - +918974089412 
+Himanshu Bisht  - +918730854402
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+SUDOCUBE
+xxxx
+Technical Event
+xxxx
+The game is on.The mind-boggling, mind freaking race is on its course. Ready to flex your muscles and to fight with all you got? Beware! The arena is not for children, the rule of the jungle favors the fastest. Get ready this February with your arsenal filled to fight in the 2nd edition of “SUDOCUBE”, involving the courage to solve the RUBIX CUBE AND SUDOKO.
+1. There will be 2 rounds. The first round will consist of beginner level, of which 20% of people will advance to the second round. 
+2. The contest will be played in a team of two and one will solve the RUBIX CUBE while the other will solve SUDOKO simultaneously. 
+3. The teams which will take the minimum combined time to complete both the events will qualify for the 2nd round. 
+4. In the 2nd round, you will be provided with an arbitrary “sketch” and the team will have to interpret the sketch. 
+5. The best Three teams will qualify to win the tournament. 
+6. The participants must adhere to the spirit of healthy competition. The organizers reserve the right to disqualify any team found indulging in any kind of misbehaviour or misconduct. 
+7. Judges decision shall be final and binding on all.
+xxxx
+DHARMENDRA KUMAR - +918730851952 
+ASHUTOSH KUMAR - +918413030016
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+VIADUCT-O-DESIGN
+xxxx
+Technical Event
+xxxx
+A bridge fabrication competition in which the participants will be first given an overview of a bridge and everything they need to know to make one of their own. The participants will then make a prototype and they will be ranked according to the strength of their bridge.
+2 members per team.
+MATERIALS REQUIRED:
+PROJECTOR
+BALSAM WOOD
+FEVI QUICK
+KNIFE
+A4 SIZE PAPERS
+WEIGHT MACHINE
+xxxx
+1.SHANKAR KUMAR - +918131047543 
+2. KAUSHIK PANDEY - +918119061266
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+VIDYUTRIK
+xxxx
+Technical Event
+xxxx
+The event has THREE rounds that test your Simulation & Analyzing skills.
+Round 1:- This round is an aptitude test on the fundamentals of Aptitude, Reasoning & general Awareness questions. Marks will be given on the basis of no. of questions correctly answered. There is one-third negative making. Selected teams from this round will proceed to the next round.
+Round 2:- Here the participant will be given story where every character in the story will be described with respect to electrical components' characteristics. The participant has to identify what these characters corresponds to in electrical elements. And then connect the identified elements in the particular sequence, as mentioned, on a bread board. And has to identify across which element the given LED bulb will glow. EXAMPLE:
+Each character represents an electrical element. The behavior of the person corresponds to the element's characteristics. Using these as clues identify what each character is in electrical analogy. 
+Character A: Doesn't think of the past. He thinks only of the future. 
+Character B: Adopts and responds immediately to all situations. 
+Character C: Doesn't like changes in life. 
+Relate these clues to the elements' behavior and identify these characters. Then, connect these elements so that there is no current division between them on the given bread board. Now, identify across which element the LED will glow. (Provided with a variable dc supply) 
+Round 3:- Here in the participants will be tested on their simulation skills. A circuit is given which they need to simulate using Software Multisim. The participants will have to race against time as they compete with one another to make the best possible circuit. The accuracy and approach in building the circuit is tested. External power source is provided by the Organizer. 
+The best three teams will be awarded first, second and third positions.
+RULES AND REGULATIONS:
+Each team can consist of 2 members. 
+A basic knowledge of circuits is required. 
+The decision of organizers will be treated as final. 
+JUDGING CRITERIA:- • There is 1/4th negative marking in first round. Here evaluation is based on the number of questions answered correctly and minus the negative marks obtained. 
+• Round two is based on Performance results and time factor is also considered. 
+• Round three is based on the simulation skill of the participant and the time taken by the participant.
+xxxx
+Shudhanshu Kumar - +918730851921 
+Rahul Bansiwal - +918131037140 
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+CHEM-CEPTION
+xxxx
+Technical Event
+The event focusses on the various aspects of chemical engineering processes and ongoings. It can be a platform for those students who are less exposed to industries to get an insight into the common operations, sales and services, product information, maintainence, machinery etc. of which a chemical engineering student must be acquainted, hence making it preponderant for almost every student. The event will also take a holistic approach in introducing and testing the knowledge of an individual. This event is also not restricted to the students of chemical engineering and can intrigue the students of other branches like mechanical and production.
+The event will be conducted in second rounds:
+First round( written, objective type) – This preliminary round will basically test the students knowledge on general topics and industry, its products, services, branches, external and internal affairs etc. This will be a knock out round.
+Second round – In the second round, the selected students from the first round will be shown some videos concerning the manufacturing processes and unit operations used by some types of industries somewhat pertaining to chemical engineering (like petroleum, steel ,plastics and polymer, paper etc) and objective type questions will follow each video. This will also be a knock out round.
+xxxx
+AKHILENDRA SINGH CHANDEL: +919089419577 
+PRAVESH MAHTO: +918974089347 
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+LOGO-DESIGN
+xxxx
+Technical Event
+xxxx
+Rules and Regulations :
+Aim of the event is to develop a unique logo for each and every club present in the campus (e.g.: the enlightenment, access etc.)
+The event will be open for all the students and each participant can develop the logos for as many clubs as possible.
+The logo should come with a motto which is mandatory for each design.
+The design should be provided as a soft copy of the original design and send it to the given email id.
+PRIZES : Exciting prizes
+The winner logo will be chosen as the official logo of the club till the next fest.
+xxxx
+SHOBHIT SINGH:- +918413029930
+PRANAV GUPTA:- +919415400787
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+CODE N'MORE
+xxxx
+A Fun Event involving basic Coding skills
+xxxx
+The event will be based on computer science and aptitude skills. 5 Computer Science Students will act as mentors for a team of min. 3 and max. 5 members. The applicants will have to go through a preliminary round of selection before being sorted under the mentors, following which there will be three rounds of competition.
+Optional: A 1-2 hour lecture by a teacher from the computer science department/from a senior.
+Round #1: Aptitude Skills
+This round will consist of timed aptitude quiz in two parts:
+1. Theoretical Questions
+2. Practical Questions
+The Teams will be judged on the time they take and the accuracy, and the team with the lowest total will be eliminated.
+Round #2: Sell Your Idea
+In this round the teams will have to come up with an idea of a - mobile app/software/website and sell that idea to a faculty member of the Comp. Sc. Department. The Faculty member will be given certain amount of credits for which he can buy the idea.
+The Team to get the least credits will be eliminated.
+Round #3: Show us “OUR” Code
+In this round the teams will be given an executable file. In a specific time period they have to write their own code trying to emulate the source code of the given .exe file.
+The team with the fastest and the most accurate code will be declared winner with the other two ranks being decided in similar fashion.
+xxxx
+Vyom Bajpeyee (2nd Year CSE):- +918131047527
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
+DA VINCI'S CATAPULT 2.0
+xxxx
+Technical Event
+xxxx
+RULES AND REGULATIONS :
+THE EVENT WILL COMPRISE OF A SINGLE ROUND WITH MULTIPLE SUB ROUNDS.
+IT WILL TEST THE ACCURACY , RANGE AND DUARABILITY OF YOUR CATAPULT.
+WINNER OF EACH ROUND WILL QUALIFY FOR THE FACE OFF ROUND.
+THE PARTICIPANT WILL BE PROVIED WITH THE MATERIALS AS PER THEIR REQUIREMENTS.
+The maximum members in a team will be 4 and minimum 2.
+xxxx
+Akshay Soni:- +918730854453
+xxxx
+http://advaitam.org.in/#technical
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxx
+https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/advaitam.jpg
+xxxxxx
