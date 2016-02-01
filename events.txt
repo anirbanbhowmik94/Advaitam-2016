@@ -243,6 +243,7 @@ xxxxxx
 CONTRAPTION
 xxxx
 Technical Competition
+xxxx
 1.A Contraption is a chain of different 'ENERGY CONVERSION' steps, in which one steps triggers the next one leading to completion of final task. 
 2.This event requires simple class room ideas along with innovation that can make the solution as complicated and fascinating as possible. 
 3.Contraption is all about making most complicated solution to a simple problem. 
@@ -416,6 +417,7 @@ xxxxxx
 CHEM-CEPTION
 xxxx
 Technical Event
+xxxx
 The event focusses on the various aspects of chemical engineering processes and ongoings. It can be a platform for those students who are less exposed to industries to get an insight into the common operations, sales and services, product information, maintainence, machinery etc. of which a chemical engineering student must be acquainted, hence making it preponderant for almost every student. The event will also take a holistic approach in introducing and testing the knowledge of an individual. This event is also not restricted to the students of chemical engineering and can intrigue the students of other branches like mechanical and production.
 The event will be conducted in second rounds:
 First round( written, objective type) – This preliminary round will basically test the students knowledge on general topics and industry, its products, services, branches, external and internal affairs etc. This will be a knock out round.
