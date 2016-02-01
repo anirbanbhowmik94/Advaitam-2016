@@ -515,11 +515,12 @@ https://raw.githubusercontent.com/anirbanbhowmik94/Advaitam-2016/master/photos/a
 xxxxxx
 Autonomous Events
 xxxx
+Robo events
+xxxx
 Line Follower
 DTMF
 Maze Solver
 Sumo Fighting
-xxxx
 To be held at Knowledge Park on Wednesday, February 10 at 10:20 AM to 05:00 PM.
 xxxx
 Ayush - +918414979790
